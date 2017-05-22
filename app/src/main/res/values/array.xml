@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="spinnerOptions">
+    <string-array name="spinnerOptions" translatable="false">
         <item>MD5</item>
         <item>SHA-1</item>
         <item>SHA-256</item>
