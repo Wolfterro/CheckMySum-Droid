@@ -3,7 +3,7 @@
 
 ### Descrição:
 
-###### Este é um simples aplicativo escrito em Java e feito para a plataforma Android (API 14 em diante) que possui a função de computar a hash utilizando os algoritmos MD5, SHA-1 e SHA-256.
+###### Este é um simples aplicativo escrito em Java e feito para a plataforma Android API 14 (Android 4.0 em diante) que possui a função de computar a hash utilizando os algoritmos MD5, SHA-1 e SHA-256.
 
 ###### No aplicativo, você poderá escolher um dos algoritmos citados acima, o arquivo que você deseja verificar e se o resultado deverá retornar caracteres com letras maiúsculas.
 
@@ -15,7 +15,9 @@
 
 <img src="http://i.imgur.com/JnhQSXf.png" width="45%" height="45%" />
 
-<br />
+### Idiomas Disponíveis:
+ - Português Brasileiro (Padrão)
+ - Inglês
 
 ### Download:
 
