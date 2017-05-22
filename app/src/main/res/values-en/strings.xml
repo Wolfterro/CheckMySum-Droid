@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CheckMySum Droid</string>
+    <string name="checkHashAllCaps">Generate hash with uppercase letters</string>
+    <string name="copyHash">Copy hash</string>
+    <string name="errorComputingHash">Error during hash computing!</string>
+    <string name="errorOpeningFile">No file was opened!</string>
+    <string name="errorSelectingFile">Error during file selection!</string>
+    <string name="generateHash">Generate hash:</string>
+    <string name="generatingHash">Generating hash...</string>
+    <string name="hashAlgorithm">Hash algorithm:</string>
+    <string name="initiate">Start</string>
+    <string name="open">Open...</string>
+    <string name="openWith">Open with...</string>
+    <string name="pleaseStandBy">Please wait while the hash is being generated</string>
+    <string name="selectFile">Select the file:</string>
+    <string name="warningHashCopy">Hash copied to clipboard!</string>
+    <string name="warningNothingToCopy">No hash copied!</string>
+</resources>

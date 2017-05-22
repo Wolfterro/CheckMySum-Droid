@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CheckMySum Droid</string>
+    <string name="selectFile">Selecione o arquivo:</string>
+    <string name="open">Abrir...</string>
+    <string name="hashAlgorithm">Algoritmo de hash:</string>
+    <string name="generateHash">Gerar hash:</string>
+    <string name="checkHashAllCaps">Gerar hash com letras maiúsculas</string>
+    <string name="initiate">Iniciar</string>
+    <string name="copyHash">Copiar hash</string>
+
+    <string name="openWith">Abrir com...</string>
+
+    <string name="generatingHash">Gerando hash...</string>
+    <string name="pleaseStandBy">Aguarde enquanto a hash é gerada</string>
+
+    <string name="warningNothingToCopy">Nenhuma hash copiada!</string>
+    <string name="warningHashCopy">Hash copiada para a clipboard!</string>
+
+    <string name="errorOpeningFile">Nenhum arquivo foi aberto!</string>
+    <string name="errorSelectingFile">Erro ao selecionar arquivo!</string>
+    <string name="errorComputingHash">Erro ao computar a hash!</string>
+</resources>
