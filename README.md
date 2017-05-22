@@ -21,8 +21,11 @@
 
 ### Download:
 
-###### Para baixar o código-fonte do aplicativo, basta utilizar o git para clonar o repositório:
+##### Para baixar o código-fonte do aplicativo, basta utilizar o git para clonar o repositório:
     git clone https://github.com/Wolfterro/CheckMySum-Droid.git
     cd CheckMySum-Droid/
+
+##### Caso queira baixar o aplicativo já compilado, use o link abaixo:
+#### ***Release:*** https://github.com/Wolfterro/CheckMySum-Droid/releases/tag/v1.0-Release
 
 ###### Caso não possua o git e queira baixar o repositório, baixe através deste [Link](https://github.com/Wolfterro/CheckMySum-Droid/archive/master.zip) ou clique em "Clone or Download", no topo da página.
